@@ -1,0 +1,6 @@
+{
+  "name": "Krishi Sewak - Fair Price Crop Marketplace",
+  "description": "India's premier MSP-protected agricultural e-commerce marketplace connecting verified farmers and buyers with guaranteed fair pricing, quality certification, and reliable logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
