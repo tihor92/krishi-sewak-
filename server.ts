@@ -515,7 +515,7 @@ async function startServer() {
     });
   }
 
-  app.listen(Number(PORT), '0.0.0.0', () => {
+  app.listen(Number(PORT), 'localhost', () => {
     console.log(`🌾 Krishi Sewak server running on http://localhost:${PORT}`);
   });
 }
